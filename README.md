@@ -7,9 +7,10 @@
       - Allie T. Richardson
       - [Kay E. Holekamp](https://www.holekamplab.org)
 
-This repository contains the code accompanying the paper “Risk-taking in
-free-living spotted hyenas is associated with anthropogenic disturbance,
-predicts survivorship, and is consistent across experimental contexts”.
+This repository contains the data and code accompanying the paper
+“Risk-taking in free-living spotted hyenas is associated with
+anthropogenic disturbance, predicts survivorship, and is consistent
+across experimental contexts”.
 
 ## Abstract
 
