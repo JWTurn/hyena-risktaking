@@ -1,6 +1,8 @@
 
 ## Risk-taking in free-living spotted hyenas is associated with anthropogenic disturbance, predicts survivorship, and is consistent across experimental contexts
 
+[![DOI](https://zenodo.org/badge/208072601.svg)](https://zenodo.org/badge/latestdoi/208072601)
+
   - Authors:
       - [Julie W. Turner](https://www.julwturner.com)
       - Rebecca M. LaFleur
